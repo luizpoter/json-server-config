@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Camisa mangueira",
+      "preco": 150
+    },
+    {
+      "nome": "Camisa flamengo",
+      "preco": 350,
+      "id": 2
+    },
+    {
+      "nome": "Camisa Sonserina",
+      "preco": 500,
+      "id": 3
+    }
+  ]
+}
